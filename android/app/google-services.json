@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078940617108",
+    "project_id": "nexus-chat-930a2",
+    "storage_bucket": "nexus-chat-930a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078940617108:android:3fc65b69c80be897dfa781",
+        "android_client_info": {
+          "package_name": "com.nexus.nexus_chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdTYk43Wd61x57vScmmSxU1g3K9IoPqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
